@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HS256KeyGen", "HS256KeyGen.csproj", "{EDC04974-C169-484E-86CF-15DBE2207397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC04974-C169-484E-86CF-15DBE2207397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC04974-C169-484E-86CF-15DBE2207397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC04974-C169-484E-86CF-15DBE2207397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC04974-C169-484E-86CF-15DBE2207397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B4A45A2-6F07-43E3-A1D4-321B4D8F6CED}
+	EndGlobalSection
+EndGlobal
